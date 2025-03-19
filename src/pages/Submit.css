@@ -1,0 +1,32 @@
+.submit-container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .submit-container input,
+  .submit-container button {
+    width: 80%;
+    max-width: 400px;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  
+  .submit-container button {
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .submit-container button:hover {
+    background: #0056b3;
+  }
+  
+  .success-message {
+    color: green;
+    font-size: 18px;
+  }
+  
