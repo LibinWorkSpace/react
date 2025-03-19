@@ -9,6 +9,7 @@ function Home() {
         <Link to = "/list">About</Link>
     </div>
   );
+  // {hello world}
 }
 
 export default Home;
